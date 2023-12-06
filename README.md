@@ -1,4 +1,4 @@
-# Python-Conceitos
+# DESAFIO - ACELERA ZG 5.0
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/DavidSilveira80/DESAFIO-ZG?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/DavidSilveira80/DESAFIO-ZG?style=for-the-badge)
